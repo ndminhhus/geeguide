@@ -1,5 +1,4 @@
 # 01_filtering.md
-------------------------------------------------------------------------------------------------
 ## Objective:
 Filtering image collection based on: 
 - Time of interest
@@ -19,7 +18,7 @@ var L8_col = ee.ImageCollection('LANDSAT/LC08/C01/T1_TOA')
                 .sort('CLOUD_COVER') //first image will be the less cloudy image in the collection
 
 ```
-------------------------------------------------------------------------------------------------
+
 ## Visualization and Checking
 ```
 print(L8_col.size(),'L8_col size')  //.size() is the number of images
