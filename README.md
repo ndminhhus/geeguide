@@ -3,7 +3,7 @@
 
 The objective of this work is to document the technical part of my master thesis, named: "Harmonization of Landsat and Sentinel 2 for Crop Monitoring,  a complete stream processing in Google Earth Engine"
 
-I will put here many scripts that I have used, either collected from various sources  or the ones I developed myselve.
+I will put here many scripts that I have used, either collected from various sources  or the ones I developed myself.
 
 The scripts are organized according to the processing workflow 
 
