@@ -1,10 +1,18 @@
-# Objective: Filtering image collection base on:
+------------------------------------------------------------------------------------------------
+Objective
+Filtering image collection base on: 
 - Time of interest
 - Area of interest
 - Metadata (cloud cover, path, row, etc.)
-
-# Core script
-var L8_col = l8toa.filterBounds(bekaa)
+------------------------------------------------------------------------------------------------
+// Core script
+var start = '2018-01-01';
+var end   = '2018-12-31';
+var L8_col = ee.ImageCollection('LANDSAT/LC08/C01/T1_TOA')
+                .filterBounds(geometry)
                 .filterDate(start,end)
-                .filter(ee.Filter.eq('WRS_PATH',174)).filter(ee.Filter.eq('WRS_ROW',37))
+                .filter(ee.Filter.e q('WRS_PATH',174)).filter(ee.Filter.eq('WRS_ROW',37))
                 .filter(ee.Filter.lt('CLOUD_COVER',95))
+
+------------------------------------------------------------------------------------------------
+//Visualization and Checking
