@@ -1,0 +1,4 @@
+Objective: Filtering image collection base on:
+- Time of interest
+- Area of interest
+- Metadata (cloud cover, path, row, etc.)
