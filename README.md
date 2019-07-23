@@ -5,8 +5,22 @@ The objective of this work is to document the technical part of my master thesis
 
 I will put here many scripts that I have used, either collected from various sources  or the ones I developed myself.
 
-The scripts are organized according to the processing workflow 
+The scripts are organized not in order of increasing complexity but according to the processing workflow. However, each script or group of scripts is described separately so you can use them for your own scenario. General format of each title is: Objective, Core Script then Visualziation Checking
 
 I will try to cover the remote sensing side also
 
-General introduction about GEE and how to use it is skiped because you can find them in many places.
+General introduction about GEE and how to use it is skiped because you can find them in many other places.
+
+Table of Contents
+1. Filtering Image Collection
+2. Atmospheric correction
+3. Cloud masking
+4. Shadow masking
+5. Topographic correction
+6. BRDF correction
+7. Reprojection and resampling
+8. Image registration
+9. Band adjustment
+10. Making yearly,montly, seasonal or dekdal (10 days) composite images
+11. Land cover mapping
+12. Exporting data
