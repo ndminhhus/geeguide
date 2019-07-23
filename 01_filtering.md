@@ -1,9 +1,9 @@
 ------------------------------------------------------------------------------------------------
 //Objective:
-//Filtering image collection based on: 
-//- Time of interest
-//- Area of interest
-//- Metadata (cloud cover, path, row, etc.)
+Filtering image collection based on: 
+- Time of interest
+- Area of interest
+- Metadata (cloud cover, path, row, etc.)
 ------------------------------------------------------------------------------------------------
 // Core script
 var start = '2018-01-01';
