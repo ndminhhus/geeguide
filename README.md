@@ -5,7 +5,7 @@ The objective of this work is to document the technical part of my master thesis
 
 I will put here many scripts that I have used, either collected from various sources  or the ones I developed myself.
 
-The scripts are organized not in order of increasing complexity but according to the processing workflow. However, each script or group of scripts is described separately so you can use them for your own scenario. General format of each title is: Objective, Core Script then Visualziation Checking
+The scripts are organized not in order of increasing complexity but according to the processing workflow. However, each script or group of scripts is described or demonstrated in the way that you can use them for your own scenario. General format of each title has: Objective, Core Script, Visualziation Checking and References
 
 I will try to cover the remote sensing side also
 
