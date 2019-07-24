@@ -24,3 +24,6 @@ Table of Contents
 10. Making yearly,montly, seasonal or dekdal (10 days) composite images
 11. Land cover mapping
 12. Exporting data
+
+
+![timeseries](https://user-images.githubusercontent.com/40456844/61792616-76af5f00-ae1d-11e9-8c08-2a43613724eb.png)
