@@ -18,7 +18,7 @@ Table of Contents
 3. [Cloud masking](03.cloudmaskTOA.md)
 4. [Shadow masking](03.cloudmaskTOA.md)
 5. [Topographic correction](04.topo_correction.md)
-6. BRDF correction
+6. [BRDF correction](04.topo_correction.md)
 7. Reprojection and resampling
 8. Image registration
 9. Band adjustment
