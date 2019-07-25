@@ -16,8 +16,8 @@ Table of Contents
 1. [Filtering Image Collection](01.Filtering-Image-Collection.md)
 2. [Atmospheric correction](02.Atm-corr-ah-readme-first.md)
 3. [Cloud masking](03.cloudmaskTOA.md)
-4. Shadow masking
-5. Topographic correction
+4. [Shadow masking](03.cloudmaskTOA.md)
+5. [Topographic correction](04.topo_correction.md)
 6. BRDF correction
 7. Reprojection and resampling
 8. Image registration
