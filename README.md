@@ -15,7 +15,7 @@ General introduction about GEE and how to use it is skiped because you can find 
 Table of Contents
 1. [Filtering Image Collection](01.Filtering-Image-Collection.md)
 2. [Atmospheric correction](02.Atm-corr-ah-readme-first.md)
-3. Cloud masking
+3. [Cloud masking](03.cloudmaskTOA.md)
 4. Shadow masking
 5. Topographic correction
 6. BRDF correction
