@@ -1,4 +1,5 @@
-# geeguide
+# [geeguide](geeguide/01.Filtering-Image-Collection.md)
+
 # Harmonization of Landsat and Sentinel 2 in Google Earth Engine, documentation and scripts
 
 The objective of this work is to document the technical part of my master thesis, named: "Harmonization of Landsat and Sentinel 2 for Crop Monitoring,  a complete stream processing in Google Earth Engine"
