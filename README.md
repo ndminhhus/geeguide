@@ -1,4 +1,4 @@
-# [geeguide](geeguide/01.Filtering-Image-Collection.md)
+# [geeguide](geeguide/README.md)
 
 # Harmonization of Landsat and Sentinel 2 in Google Earth Engine, documentation and scripts
 
