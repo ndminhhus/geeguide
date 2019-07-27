@@ -17,7 +17,7 @@ Table of Contents
 4. [Shadow masking](03.cloudmaskTOA.md)
 5. [Topographic correction](04.topo_correction.md)
 6. [BRDF correction](04.topo_correction.md)
-7. Reprojection and resampling
+7. [Reprojection and resampling](07.reprojection.md)
 8. Image registration
 9. Band adjustment
 10. Making yearly,montly, seasonal or dekdal (10 days) composite images
