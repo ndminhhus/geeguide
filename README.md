@@ -2,15 +2,13 @@
 
 # Harmonization of Landsat and Sentinel 2 in Google Earth Engine, documentation and scripts
 
-The objective of this work is to document the technical part of my master thesis, named: "Harmonization of Landsat and Sentinel 2 for Crop Monitoring,  a complete stream processing in Google Earth Engine"
+The objective of this work is to document the technical part of my master thesis, named: "Harmonization of Landsat and Sentinel 2 for Crop Monitoring,  a complete stream processing in Google Earth Engine". A complete stream processing entirely in Google Earth Engine is developed to generate seamless surface reflectances of harmonized L7,L8 and Sentinel2.
 
-I will put here many scripts that I have used, either collected from various sources  or the ones I developed myself.
+I will put here many scripts that I have used, either collected from various sources or the ones I developed myself.  Citation is considered seriously. The remote sensing content also will be discussed. 
 
-The scripts are organized not in order of increasing complexity but according to the processing workflow. However, each script or group of scripts is described or demonstrated in the way that you can use them for your own scenario. General format of each title has: Objective, Core Script, Visualziation Checking and References
+The scripts are organized not in order of increasing complexity but according to the processing workflow. Also, each script or group of scripts will be described or demonstrated in the way that it can stand independently and can be reused easily for your own purpose. Each session has five parts including Objective, General Instruction, Core Script, Visualisation Checking, and References
 
-I will try to cover the remote sensing side also
-
-General introduction about GEE and how to use it is skiped because you can find them in many other places.
+Some experiences with GEE are needed. General introduction about GEE and how to use it can be found in many other places.
 
 Table of Contents
 1. [Filtering Image Collection](01.Filtering-Image-Collection.md)
