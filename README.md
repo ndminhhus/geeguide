@@ -18,7 +18,7 @@ Table of Contents
 5. [Topographic correction](04.topo_correction.md)
 6. [BRDF correction](04.topo_correction.md)
 7. [Reprojection and resampling](07.reprojection.md)
-8. [Image registration](08.image_realigment.md)
+8. [Image registration](08.image_registration.md)
 9. Band adjustment
 10. Making yearly,montly, seasonal or dekdal (10 days) composite images
 11. Land cover mapping
