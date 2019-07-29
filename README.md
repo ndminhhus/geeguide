@@ -21,7 +21,7 @@ Table of Contents
 8. [Image registration](08.image_registration.md)
 9. [Band adjustment](09.band_adjustment.md)
 10. [yearly,monthly,seasonal and dekdal (10 days) time series](10.time_series.md) 
-11. Mapping land cover
+11. Crop mapping 
 12. Exporting data
 
 
