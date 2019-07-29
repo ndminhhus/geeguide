@@ -20,8 +20,8 @@ Table of Contents
 7. [Reprojection and resampling](07.reprojection.md)
 8. [Image registration](08.image_registration.md)
 9. [Band adjustment](09.band_adjustment.md)
-10. Time series of composite images : yearly,montly, seasonal and dekdal (10 days) 
-11. Land cover mapping
+10. [yearly,monthly,seasonal and dekdal (10 days) time series](10.time_series.md) 
+11. Mapping land cover
 12. Exporting data
 
 
