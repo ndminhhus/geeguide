@@ -10,6 +10,52 @@
 ## Core script
 - 
 ```
+//Define initial conditions
+var hls_col = ee.ImageCollection('users/ndminhhus/eLEAF/nt/hls_v01').map(ndviF);
+var paddy_nt = ee.Image('users/ndminhhus/NTmask/paddy');
+var geometry = ee.Geometry.Point([108.94553918036411,11.566755394830713])
+```
+- Seasonal Composite
+```
+//Seasonal
+var years = ee.List.sequence(2018, 2019)
+var seasonalNDVI =  ee.ImageCollection.fromImages(
+  years.map(function (y) {
+  var w =  hls_col.filter(ee.Filter.calendarRange(y, y, 'year'))
+          .filter(ee.Filter.calendarRange(1, 4, 'month'))
+          // .filter(ee.Filter.calendarRange(5, 9, 'month'))
+          .mean();
+  return w.set('year', y)
+          .set('system:time_start',ee.Date.fromYMD(y,1,1))//.clip(NTbound);
+}).flatten());
+print(seasonalNDVI)
+```
+- Monthly Composite
+```
+//Monthly
+
+
+
+```
+- Time Series
+```
+//Time series
+// Predefine the chart titles.
+var title = {
+  title: ' NDVI Series ',
+  hAxis: {title: 'Date'},max:1,
+  vAxis: {title: 'NDVI'},
+  series: {0:{color:'red'},1:{color:'blue'}},
+};
+
+var chart_ndvi_season = ui.Chart.image.series(seasonalNDVI.select('NDVI'), geometry, ee.Reducer.mean(), 30).setOptions(title).setChartType('ScatterChart');
+print(chart_ndvi_season)
+
+//function ndvi
+function ndviF(img){
+  var ndvi = img.normalizedDifference(['nir','red']).rename('NDVI');
+  return img.addBands(ndvi)
+}
 ```
 
 ## Visualization and Checking
