@@ -12,7 +12,7 @@ Some experiences with GEE are needed. General introduction about GEE and how to 
 
 Table of Contents
 1. [Filtering Image Collection](01.Filtering-Image-Collection.md)
-2. [Atmospheric correction](02.Atm-corr-ah-readme-first.md)
+2. [Atmospheric correction](02.Atm-correction.md)
 3. [Cloud masking](03.cloudmaskTOA.md)
 4. [Shadow masking](03.cloudmaskTOA.md)
 5. [Topographic correction](04.topo_correction.md)
