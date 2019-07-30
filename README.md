@@ -11,6 +11,7 @@ The scripts are organized not in order of increasing complexity but according to
 Some experiences with GEE are needed. General introduction about GEE and how to use it can be found in many other places.
 
 Table of Contents
+Part 1: Preprocessing and Data analysis.
 1. [Filtering Image Collection](01.Filtering-Image-Collection.md)
 2. [Atmospheric correction](02.Atm-correction.md)
 3. [Cloud masking](03.cloudmaskTOA.md)
@@ -20,9 +21,9 @@ Table of Contents
 7. [Reprojection and resampling](07.reprojection.md)
 8. [Image registration](08.image_registration.md)
 9. [Band adjustment](09.band_adjustment.md)
-10. [yearly,monthly,seasonal and dekdal (10 days) time series](10.time_series.md) 
-11. Crop mapping 
-12. Exporting data
-
+10. [Composite time series](10.time_series.md) 
+11. Exporting data
+12. Crop mapping with spectral signature & temporal signature
 
 ![timeseries](https://user-images.githubusercontent.com/40456844/61792616-76af5f00-ae1d-11e9-8c08-2a43613724eb.png)
+
