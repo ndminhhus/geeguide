@@ -6,7 +6,7 @@ The objective of this work is to document the technical part of my master thesis
 
 I will put here many scripts that I have used, either collected from various sources or the ones I developed myself.  Citation is considered seriously. The remote sensing content also will be discussed. 
 
-The scripts are organized not in order of increasing complexity but according to the processing workflow. Also, each script or group of scripts will be described or demonstrated in the way that it can stand independently and can be reused easily for your own purpose. Each session has five parts including Objective, General Instruction, Core Script, Visualisation Checking, and References
+The scripts are organized not in order of increasing complexity but according to the processing workflow. Also, the scripts can be used separately or in combination depending on user-specific applications. Each session has five parts including Objective, General Instruction, Core Script, Visualisation Checking, and References
 
 Some experiences with GEE are needed. General introduction about GEE and how to use it can be found in many other places.
 
