@@ -4,6 +4,8 @@
 
 The objective of this work is to document the technical part of my master thesis, named: "Harmonization of Landsat and Sentinel 2 for Crop Monitoring,  a complete stream processing in Google Earth Engine". A complete stream processing entirely in Google Earth Engine is developed to generate seamless surface reflectances of harmonized L7,L8 and Sentinel2.
 
+[GEE App](https://ndminhhus.users.earthengine.app/view/cropninhthuan2019)
+
 I will put here many scripts that I have used, either collected from various sources or the ones I developed myself.  Citation is considered seriously. The remote sensing content also will be discussed. 
 
 The scripts are organized not in order of increasing complexity but according to the processing workflow. Also, the scripts can be used separately or in combination depending on user-specific applications. Each session has five parts including Objective, General Instruction, Core Script, Visualisation Checking, and References
