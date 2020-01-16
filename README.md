@@ -6,6 +6,8 @@ The objective of this work is to document the technical part of my master thesis
 
 To inspect the result of the hamonized dataset via NDVI time series and the cropland classification in Ninh Thuan, Vietnam please go to this [GEE App](https://ndminhhus.users.earthengine.app/view/cropninhthuan2019)
 
+I am glad to announce that this work has been peer reviewed and now published on the Journal of Remote sensing: [Minh et al., 2020](https://doi.org/10.3390/rs12020281)
+
 I will put here many scripts that I have used, either collected from various sources or the ones I developed myself.  Citation is considered seriously. The remote sensing content also will be discussed. 
 
 The scripts are organized not in order of increasing complexity but according to the processing workflow. Also, the scripts can be used separately or in combination depending on user-specific applications. Each session has five parts including Objective, General Instruction, Core Script, Visualisation Checking, and References
