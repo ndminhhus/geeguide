@@ -6,7 +6,7 @@ The objective of this work is to document the technical part of my master thesis
 
 To inspect the result of the hamonized dataset via NDVI time series and the cropland classification in Ninh Thuan, Vietnam please go to this [GEE App](https://ndminhhus.users.earthengine.app/view/cropninhthuan2019)
 
-I am glad to announce that this work has been peer reviewed and now published on the Journal of Remote sensing: [Minh et al., 2020](https://doi.org/10.3390/rs12020281)
+I am glad to announce that this work has been peer reviewed and now published on the Journal of Remote sensing: [Minh et al., 2020](https://doi.org/10.3390/rs12020281). We were also invited to speak about this work at the 6 th International Conference on Satellite & Space Missions on July 15-16, 2020 in London, UK. [More information](https://satellite.insightconferences.com) 
 
 I will put here many scripts that I have used, either collected from various sources or the ones I developed myself.  Citation is considered seriously. The remote sensing content also will be discussed. 
 
