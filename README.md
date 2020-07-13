@@ -19,6 +19,7 @@ Part 1: Preprocessing and Data analysis.
 1. [Filtering Image Collection](01.Filtering-Image-Collection.md)
 2. [Atmospheric correction](02.Atm-correction.md)
 3. [Cloud masking](03.cloudmaskTOA.md)
+3A. [Cloud masking improved](https://medium.com/eelab/improve-cloud-detection-and-removal-with-machine-learning-in-google-earth-engine-ac0a2f759022)
 4. [Shadow masking](03.cloudmaskTOA.md)
 5. [Topographic correction](04.topo_correction.md)
 6. [BRDF correction](04.topo_correction.md)
